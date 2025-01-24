@@ -114,6 +114,6 @@ Este proyecto consiste en el diseño, creación y normalización de una base de 
 
 ## Autores.
 
-Este proyecto fue desarrollado en equipo por [Daniel Garrido Prados](https://github.com/Danielgarpra/SQL_projet.git), [Vanessa Lopez Aguilera](https://github.com/VanessaLpzAg/Proyecto_BBDD.git), [Juan Zubiaga Delclaux](https://github.com/JZubiaga13/Proyecto_BBDD). 
+Este proyecto fue desarrollado en equipo por [Daniel Garrido Prados](https://github.com/Danielgarpra/SQL_projet.git), [Vanessa López Aguilera](https://github.com/VanessaLpzAg/Proyecto_BBDD.git), [Juan Zubiaga Delclaux](https://github.com/JZubiaga13/Proyecto_BBDD). 
 
 ---
